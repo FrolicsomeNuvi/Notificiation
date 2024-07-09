@@ -69,7 +69,7 @@ TextNotification.Visible = false
 
 Design.Name = "Design"
 Design.Parent = TextNotification
-Design.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+Design.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Design.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Design.BorderSizePixel = 0
 Design.Position = UDim2.new(-0.0111600934, 0, -0.0080247568, 0)
